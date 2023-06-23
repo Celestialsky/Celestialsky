@@ -22,17 +22,17 @@ cuccas = {
 
 <details>
     
-    <summary> Github Stats</summary>
+<summary> Github Stats</summary>
     
-    ![cuccas GitHub stats](https://github-readme-stats.vercel.app/api?username=cuccas&count_private=true&theme=tokyonight)
+![cuccas GitHub stats](https://github-readme-stats.vercel.app/api?username=cuccas&count_private=true&theme=tokyonight)
 
 </details>
 
 <details>
     
-    <summary> Most Used Languages</summary>
+<summary> Most Used Languages</summary>
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuccas&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuccas&layout=compact&langs_count=8&theme=tokyonight)
 
 </details>
 
