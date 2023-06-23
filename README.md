@@ -17,7 +17,6 @@ cuccas = {
 ### Connect with me:
 
 [![GitHub cuccas](https://img.shields.io/github/followers/cuccas?label=Follow&style=social)][github]
-
 <br>
 
 <details>
