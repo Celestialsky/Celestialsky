@@ -14,25 +14,15 @@ cuccas = {
 }
 ```
 ### Connect with me:
-
 [![GitHub cuccas](https://img.shields.io/github/followers/cuccas?label=Follow&style=social)][github]
-
 <br>
-
 <details>
-
 <summary> Github Stats</summary>
-
 ![cuccas GitHub stats](https://github-readme-stats.vercel.app/api?username=cuccas&count_private=true&theme=tokyonight)
-
 </details>
-
 <details>
-
 <summary> Most Used Languages</summary>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuccas&layout=compact&langs_count=8&theme=tokyonight)
-
 </details>
 
 [github]: https://github/com/cuccas
