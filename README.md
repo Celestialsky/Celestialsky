@@ -1,6 +1,6 @@
 ## I'm a Student
 
-- :books: I'm an Computer Science Engineering student
+- :books: I'm a Computer Science Engineering student
 - :bulb: Allways looking for new interesting things
 - :zap: I like to play video games when I have free time
 
