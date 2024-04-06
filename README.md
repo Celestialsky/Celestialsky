@@ -7,8 +7,8 @@
 ### More about me 
 
 ```python
-cuccas = {
-    age : 18,
+me = {
+    age : 19,
     hobbies : ["programing", "videogames"],
     languages : ["python", "javascript"],
 }
