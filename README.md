@@ -8,7 +8,7 @@
 
 ```python
 me = {
-    age : 19,
+    age : 20,
     hobbies : ["programing", "videogames"],
     languages : ["python", "javascript"],
 }
@@ -16,14 +16,14 @@ me = {
 
 ### Connect with me:
 
-[![GitHub cuccas](https://img.shields.io/github/followers/cuccas?label=Follow&style=social)][github]
+[![GitHub cuccas](https://img.shields.io/github/followers/Celestialsky?label=Follow&style=social)][github]
 <br>
 
 <details>
     
 <summary> Github Stats</summary>
     
-![cuccas GitHub stats](https://github-readme-stats.vercel.app/api?username=cuccas&count_private=true&theme=tokyonight)
+![Celestialsky GitHub stats](https://github-readme-stats.vercel.app/api?username=Celestialsky&count_private=true&theme=tokyonight)
 
 </details>
 
@@ -31,8 +31,8 @@ me = {
     
 <summary> Most Used Languages</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuccas&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestialsky&layout=compact&langs_count=8&theme=tokyonight)
 
 </details>
 
-[github]: https://github/com/cuccas
+[github]: https://github/com/Celestialsky
